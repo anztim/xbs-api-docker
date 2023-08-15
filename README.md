@@ -1,4 +1,10 @@
-# xBrowserSync
+# Docker compose of xBrowserSync API
+
+Containing only database and api.
+
+The original repo included a caddy reverse proxy which is unnecessary for a lan deployment.
+
+# xBrowserSync (Origin README)
 ## API for Docker
 
 ![](https://img.shields.io/docker/pulls/xbrowsersync/api.svg) 
